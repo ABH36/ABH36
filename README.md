@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
+<h3 align="center">AI-Driven Full-Stack Developer | Building Scalable Real-World Applications</h3>
+
+---
+
 # 💫 About Me:
 🔭 Building AI-driven full-stack products  
 👯 Open to collaboration on Full-Stack & AI projects  
@@ -9,6 +14,26 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-jain-169949337)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aabhishekjain53@gmail.com)
+
+
+## 📌 Featured Projects
+
+### 🏠 StudentSathi
+Full-stack platform for student accommodation with real-time chat using Socket.io, enabling secure and private communication.
+
+### 🥗 Healthy Bite
+AI-powered web application that analyzes food labels and provides personalized health risk scores based on user conditions and dietary preferences.
+
+### 🌾 KrishiPredict
+AI-based crop price forecasting system using Holt-Winters model (Python + FastAPI) with multi-role access and live mandi insights.
+
+
+## 🔒 Additional Production Projects (Private)
+
+- Developed multiple production-ready full-stack applications maintained in private repositories  
+- Built real-world systems with focus on scalability, performance, and secure architecture  
+- Experience in end-to-end development including backend design, database modeling, API integration, and cloud deployment  
+- Access to selected private projects can be shared upon request  
 
 
 # 💻 Tech Stack:
