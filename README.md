@@ -19,14 +19,22 @@
 ## 📌 Featured Projects
 
 ### 🏠 StudentSathi
-Full-stack platform for student accommodation with real-time chat using Socket.io, enabling secure and private communication.
+Full-stack platform for student accommodation with real-time chat using Socket.io, enabling secure and private communication.  
+🔗 Live: https://student-sathi-umber.vercel.app
+💻 Code: https://github.com/ABH36/Student-Sathi
+---
 
 ### 🥗 Healthy Bite
-AI-powered web application that analyzes food labels and provides personalized health risk scores based on user conditions and dietary preferences.
+AI-powered web application that analyzes food labels and provides personalized health risk scores based on user conditions and dietary preferences.  
+🔗 Live: https://healthy-bite-omega.vercel.app
+💻 Code: https://github.com/ABH36/Healthy-Bite
+
+---
 
 ### 🌾 KrishiPredict
-AI-based crop price forecasting system using Holt-Winters model (Python + FastAPI) with multi-role access and live mandi insights.
-
+AI-based crop price forecasting system using Holt-Winters model (Python + FastAPI) with multi-role access and live mandi insights.  
+🔗 Live: https://krishi-predict.vercel.app
+💻 Code: https://github.com/ABH36/Krishi-Predict
 
 ## 🔒 Additional Production Projects (Private)
 
