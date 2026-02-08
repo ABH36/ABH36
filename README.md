@@ -20,29 +20,29 @@
 
 ### 🏠 StudentSathi
 Full-stack platform for student accommodation with real-time chat using Socket.io, enabling secure and private communication.  
-[Live Demo](https://student-sathi-umber.vercel.app) | [Source Code](https://github.com/ABH36/Student-Sathi)
+[Live Demo](https://student-sathi-umber.vercel.app) | Source Code (Private – available on request)
 
 ---
 
 ### 🥗 Healthy Bite
 AI-powered web application that analyzes food labels and provides personalized health risk scores based on user conditions and dietary preferences.  
-[Live Demo](https://healthy-bite-omega.vercel.app) | [Source Code](https://github.com/ABH36/Healthy-Bite)
+[Live Demo](https://healthy-bite-omega.vercel.app) | Source Code (Private – available on request)
 
 ---
 
 ### 🌾 KrishiPredict
 AI-based crop price forecasting system using Holt-Winters model (Python + FastAPI) with multi-role access and live mandi insights.  
-[Live Demo](https://krishi-predict.vercel.app) | [Source Code](https://github.com/ABH36/Krishi-Predict)
+[Live Demo](https://krishi-predict.vercel.app) | Source Code (Private – available on request)
 
 
 ## 🔒 Additional Production Projects (Private)
 
-- Developed multiple production-ready full-stack applications maintained in private repositories  
-- Built real-world systems with focus on scalability, performance, and secure architecture  
-- Experience in end-to-end development including backend design, database modeling, API integration, and cloud deployment  
-- Access to selected private projects can be shared upon request  
+- Developed multiple **production-ready full-stack applications** maintained in private repositories  
+- Built real-world systems focusing on **scalability, performance, and secure architecture**  
+- Hands-on experience in **end-to-end development**, including backend design, database modeling, REST API integration, and cloud deployment  
+- Access to selected private projects can be provided upon request
 
-
+ 
 # 💻 Tech Stack:
 
 ### Languages
